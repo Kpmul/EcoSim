@@ -13,20 +13,22 @@ EcoSim was developed as part of a Master's dissertation project at Maynooth Univ
 
 - **Components:** Although Cyclone operates as a single-file system, conceptual breakdowns are provided for better understanding:
 - 
-  - **States and Transitions:**
-    - `heatingStates.md` - Explanation of heating system states.
+  - **States**
+ - `heatingStates.md` - Explanation of heating system states.
+ - `applianceStates.md` - Explanation of appliance states.
+ - `lightingStates.md` - Explanation of lighting system states.
+ - `coolingStates.md` - Explanation of cooling system states.
+ - `initStates.md` - Initialization states.
+  - Transitions:**
     - `heatingTransitions.md` - Details on heating system transitions.
-    - `applianceStates.md` - Explanation of appliance states.
     - `applianceTransitions.md` - Details on appliance transitions.
-    - `lightingStates.md` - Explanation of lighting system states.
     - `lightingTransitions.md` - Details on lighting system transitions.
-    - `coolingStates.md` - Explanation of cooling system states.
     - `coolingTransitions.md` - Details on cooling system transitions.
     - `entryNodes.md` - Overview of entry nodes.
     - `entryNodeTransitions.md` - Details on transitions for entry nodes.
-    - `initStates.md` - Initialization states.
-    - `initVariables.md` - Initialization variables.
+    
   
   - **General:**
     - `functions.md` - Overview of functions used in the model.
+    - `initVariables.md` - Initialization variables.
     - `goal.md` - Description of the goal for the model.
