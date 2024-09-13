@@ -13,13 +13,14 @@ EcoSim was developed as part of a Master's dissertation project at Maynooth Univ
 
 - **Components:** Although Cyclone operates as a single-file system, conceptual breakdowns are provided for better understanding:
 - 
-  - **States**
+  - **States:**
  - `heatingStates.md` - Explanation of heating system states.
  - `applianceStates.md` - Explanation of appliance states.
  - `lightingStates.md` - Explanation of lighting system states.
  - `coolingStates.md` - Explanation of cooling system states.
  - `initStates.md` - Initialization states.
-  - Transitions:**
+   
+  - **Transitions:**
     - `heatingTransitions.md` - Details on heating system transitions.
     - `applianceTransitions.md` - Details on appliance transitions.
     - `lightingTransitions.md` - Details on lighting system transitions.
@@ -27,7 +28,6 @@ EcoSim was developed as part of a Master's dissertation project at Maynooth Univ
     - `entryNodes.md` - Overview of entry nodes.
     - `entryNodeTransitions.md` - Details on transitions for entry nodes.
     
-  
   - **General:**
     - `functions.md` - Overview of functions used in the model.
     - `initVariables.md` - Initialization variables.
