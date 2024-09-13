@@ -1,7 +1,7 @@
 # EcoSim: Energy-Saving Optimisation for Homes and Buildings
 
 ## Overview
-EcoSim was developed as part of a Master's dissertation project at Maynooth University, using Cyclone, a specification language designed around graph theory for system modelling and testing, developed by Hao Wu at Maynooth University. The goal of the project is to create a tool that helps optimize energy usage in homes and buildings by modelling key components such as heating systems, appliances, and lighting, with consideration of real-world variables.
+EcoSim was developed as part of a Master's dissertation project at Maynooth University, using Cyclone, a specification language designed around graph theory for system modelling and testing, developed by Hao Wu at Maynooth University. The goal of the project is to create a tool that helps optimise energy usage in homes and buildings by modelling key components such as heating systems, appliances, and lighting, with consideration of real-world variables.
 
 ## Features
 - **Comprehensive Modeling:** Models heating systems, appliances, and lighting to reflect various residential and commercial settings.
