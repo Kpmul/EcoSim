@@ -10,7 +10,23 @@ EcoSim was developed as part of a Master's dissertation project at Maynooth Univ
 
 ## Project Structure
 - **Main File:** `EcoSim.cyclone` - The full implementation of the energy optimization model using Cyclone.
+
 - **Components:** Although Cyclone operates as a single-file system, conceptual breakdowns are provided for better understanding:
-  - `heating_system.cyclone.md` - Explanation of heating system modelling.
-  - `appliances.cyclone.md` - Details on appliance energy usage modelling.
-  - `lighting.cyclone.md` - Insights into lighting system integration.
+- 
+  - **States and Transitions:**
+    - `heatingStates.md` - Explanation of heating system states.
+    - `heatingTransitions.md` - Details on heating system transitions.
+    - `applianceStates.md` - Explanation of appliance states.
+    - `applianceTransitions.md` - Details on appliance transitions.
+    - `lightingStates.md` - Explanation of lighting system states.
+    - `lightingTransitions.md` - Details on lighting system transitions.
+    - `coolingStates.md` - Explanation of cooling system states.
+    - `coolingTransitions.md` - Details on cooling system transitions.
+    - `entryNodes.md` - Overview of entry nodes.
+    - `entryNodeTransitions.md` - Details on transitions for entry nodes.
+    - `initStates.md` - Initialization states.
+    - `initVariables.md` - Initialization variables.
+  
+  - **General:**
+    - `functions.md` - Overview of functions used in the model.
+    - `goal.md` - Description of the goal for the model.
