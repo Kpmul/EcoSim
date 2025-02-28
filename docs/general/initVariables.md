@@ -65,6 +65,6 @@ a Deterministic Finite Automata.
     const real coolingRateSmallRoom = 0.66;
     const real coolingRateMediumRoom = 1;
     const real coolingRateLargeRoom = 1.3;
-    // These 'init' variables are set to represent a basic setup for the EcoSim model. 
+    // These 'init' variables are set to represent a basic setup for the EcoSim model
 }
 ```
