@@ -9,7 +9,7 @@ The assert statement checks whether both the first lighting and the second appli
 
 The 'check' command is used to verify if a path exists from 'residentialHome' with certain conditions applied: ensuring that the heating is toggled ON and OFF within a set range, while lights and appliances are also toggled ON briefly. The goal is to reach a state (h3) within 20 steps, without triggering (h4), confirming the system's ability to maintain the desired state transitions efficiently.
 
-Uncommenting the 'enumerate' command would allow the system to explore all possible paths that meet the conditions to reach (h3), which could be useful for finding optimized paths but may be memory intensive due to the exhaustive nature of the search.
+Uncommenting the 'enumerate' command would allow the system to explore all possible paths that meet the conditions to reach (h3), which could be useful for finding optimised paths but may be memory intensive due to the exhaustive nature of the search.
 
 ```java
     goal {
