@@ -74,6 +74,6 @@ temperature for each room, so that the simulation accurately reflects the heatin
     }
 
     normal state heatingOff {
-        heatingState = #OFF;    // Sewt ENUM to OFF
+        heatingState = #OFF;    // Set ENUM to OFF
     }
 ```
