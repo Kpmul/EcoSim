@@ -19,7 +19,7 @@ EcoSim was developed as part of a Master's dissertation project at Maynooth Univ
   - `applianceStates.md` - Explanation of appliance states.
   - `lightingStates.md` - Explanation of lighting system states.
   - `coolingStates.md` - Explanation of cooling system states.
-  - `initStates.md` - Initialization states.
+  - `initStates.md` - Initialisation states.
 
 - **Transitions:**
   - `heatingTransitions.md` - Details on heating system transitions.
