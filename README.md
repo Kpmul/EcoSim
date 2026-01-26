@@ -10,7 +10,7 @@ EcoSim was developed as part of a Master's dissertation project at Maynooth Univ
 
 ## Project Structure
 
-- **Main File:** `EcoSim.cyclone` - The full implementation of the energy optimization model using Cyclone.
+- **Main File:** `EcoSim.cyclone` - The full implementation of the energy optimisation model using Cyclone.
 
 - **Components:** Although Cyclone operates as a single-file system, conceptual breakdowns are provided for better understanding:
 
